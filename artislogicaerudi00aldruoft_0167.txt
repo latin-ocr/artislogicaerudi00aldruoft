@@ -1,0 +1,35 @@
+RUDtMENTA.
+
+bOlc Aliquod B non est A
+Ar Omne Β θεῖ C: Ergo
+dO Aliquod C non est A.
+
+cIAt Omne B est A
+Is Aliquod Β θεῖ C ε Ergo
+I Aliquod C est A.
+
+fEr Nullum B est A
+Is Aliquod B est C: Ergo
+On Aliquod C non est A.
+
+IV.
+
+brAm Omne A θεῖ Β
+An Omne Β θεῖ C τ Ergo
+tlp Aliquod C θεῖ Α.
+
+cAm Omne A θεῖ Β
+En Nullum B est C ε Ergo
+Es Nullum C θεῖ Α.
+
+cZIm Aliquod A est B
+Ar Omne B est C ε Ergo
+Is Aliquod C est A.
+
+fEs Nullum A θεῖ Β
+Ap Omne Β θεῖ C: Ergo
+O Aliquod C non θεῖ A.
+G 2
+
+83
+

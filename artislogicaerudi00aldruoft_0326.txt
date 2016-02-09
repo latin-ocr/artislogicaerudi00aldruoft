@@ -1,0 +1,39 @@
+242 APPENDJX.
+
+thius calls it a material consequence⁸; and, in spite of the
+many eminent authorities on the other side, I am still
+disposed to think he is right. But let us grant for a
+moment the opposite view, and allow that the proposition,
+“ All G is either A or B,'' implies, as a condition of its
+truth, ‘⁶ No C can be both t.'’ Thus viewed, it is in reality
+a complex proposition, containing two distinct asser-
+tions, each of which may be the ground of two distinct
+processes of reasoning, governed by two opposite laws.
+Surely it is essentia] to all clear thinking, that the two
+should be separated from each other, and not confounded
+under one form by assuming the Law of Excluded
+Middle to be, what it is not, a complex of those of
+Identity and Contradiction. Thus distinguished, the
+moods of the disjunct1ve syllogism are mere verbal
+variations from the categorica] form, and may easily be
+brought under its lawsu.
+
+⁵ De Syll. Hyp. lib. i. Opera, p. 616.
+ἲ Aquinas, Opusc. xlviii. De Emmciatione, c. xiv. Krug, Loyilc, ξ. 86.
+¹¹ Thus:
+
+Modus tollendo ponens.
+Every C which is not A is B.
+
+Illodus ponendo tollens.
+No C which is A is B.
+
+Every 11 Every
+Some }C is a C which is not A. χ Some }C is a O which is A.
+This Ι This
+
+· It is B. l ·. It is not B.
+
+The first is governed by the Principle of Identity, and the second by the
+Principle of Contradiction.
+

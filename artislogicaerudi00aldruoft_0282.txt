@@ -1,0 +1,42 @@
+198 APPENDJX.
+
+NOTE D.
+
+ΟΝ MATERIAL AND FORMAL CONSEQUENCE.
+
+A MATERIAL CONSEQUENCE is defined by Aldrich to be
+one in which the conclusion follows from the premises
+solely by the force of the terms. This in fact meanS,
+from some understood Proposition or Propositions, con-
+necting the terms, by the addition of which the mind is
+enabled to reduce the Consequence to logical form. This
+is easily seen, both in Aldrich's example, “Homo est
+animal, Ergo est vivens,'' and in the rather more corn-
+plicated instance given by Sanderson, “ Socrates est
+risibilis, ergo, Aliquis homo est rationalis.’' The latter,
+when the necessary conditions are supplied, is expanded
+into two syllogisms.
+
+Omne risibile est rationale ;
+Socrates est risibilis,
+
+Erg0‚ Socrates est rationalis.
+Socrates est horno,
+
+Ergo, Aliquis homo est rationalis.
+
+The failure therefore of a Materia] Consequence takes
+place when no such connexion exists between the ternis
+as will warrant us in supplying the premises required:
+i. e. when one or more of the premises so supplied would
+be false. But to determine this point is obviously
+beyond the province of the Logician. For this reason,
+Materia] Consequence is rightly excluded from Logic.
+Moreover, even where true premises can be added,
+and the Consequence legitimately deduced, we cannot,
+except from knowledge of the matter, determine into
+
+what form the reasoning will naturally fall. In some
+
+cases⁹ asin the example above quoted from Sanderson,
+

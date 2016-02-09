@@ -1,0 +1,44 @@
+RUDlMENTA. 61
+
+quantitas, quarn utraque qualitas servatur. 2. Per
+accidensb, quando servata qualitate, quantitas
+mutatur.
+
+f Ec I Simpliciter convertitur Ev A per Accic et
+conversio utrobique illativa est.
+
+Nam 1. sit vera Ed, puta Nullum A est B: Ergo
+
+b Per aeciclens; so called because it is not a conversion
+of the universal per se, but by reason of its containing the
+particular. For the proposition “ Some B is Α,” is primarily
+the converse of “ Some A Is B,⁷' secondarily of “All A is B.''
+See Boethius, de Syll. Cat. p. 589.
+
+0 A st O, per contra ‚· sicfit conversio tota.
+
+Conversion by contraposiffion, which is not employed
+by Aristotle‚ is given by Boethius in his first book, De
+Sylloqismo Categsorico. He is followed by Petrus Hispanus,
+who first gives the mnemonic, as above. It should be oba
+served, that the old Logicians, following Boethius, main-
+tain‚ that in conversion by contraposition, as well as in
+the others, the quality should remain unchanged. Con-
+sequently the converse of “ ΑΙ] A is B'' is “All not B is
+not Α,” and of “Some A is not B‚'’ “Some not B is not
+not A.” It is simpler, however, to convert A into E and O
+into I, (“ No not B is A;‘’ “Some not B is Α,”) as is done by
+Wallis and Abp. Whately; and before Boethius by Apuleius
+and Capella, who notice the conversion, but do not give it a
+name. The principle of this conversion may be found in
+Aristotle, Top. ii. 8. 1. though he does not employ it for
+logical purposesj
+
+d Sit vera E. This is the proof given by Theophrastus
+and Eudemus. (Alexander, Scholia, p. 148. b. 29.) Aristotle
+proves it by the method called ἕκθεσις, i. e. by the e.z·]zibiti0n
+of an individua] instance, (ἐκτιθέναι exponere sensui ,· whence a
+syllogism with singular premises is called sylloyismus escpo-
+sitorc'us.) Thus, No A is B, therefore No B is A, for if not,
+Some individual B, say C, is A. Then C is both A and B,
+

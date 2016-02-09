@@ -1,0 +1,42 @@
+APPENDIX. 181
+
+ΝΟΤΕ G.
+
+ΟΝ DEFINITION.
+
+ΙΝ the notes to Aldrich’s account of Definition, I have
+endeavoured to explain his language in conformity with
+the views most commonly found in Logical Treatises.
+But as these views differ in many respects from those of
+Aristotle, on which they are supposed to be founded, and
+as a correct account of the doctrines of that Philosopher
+will materially assist in the solution of more than one
+of those vexatce quaestiones which are most perplexing
+to beginners in Logic, I shall attempt a somewhat fuller
+exposition here.
+
+ln the second Book of the Posterior Analyfflcs, Aristotle
+mentions three different forms of Definition‚ in the
+following words: ’Έο-τιν ἄρα ὁρισμὸς εἷς μὲν λόγος τοῦ τί ἐστιν
+ἀναπόδεικτος, εἷς δὲ συλλογισμὸς τοῦ τί ἐστι, πτώσει διαφέρων τῆς
+ἀποδείξεως, τρίτος δὲ τῆς τοῦ τί ἐστιν ἀποδείξεως συμπέρασμαῧ.
+This passage is a concise summary of the whole Aristo-
+telian theory of Definition. Adopting it as our text, we
+proceed to comment as follows.
+
+A necessary preliminary to the determining the Real
+Definition of any object, (τί svm) is to ascertain that such
+object exists (ἔτι ἔστι). Otherwise our Definition will
+be merely a nomina] oneb. But we have two classes of
+definable objects, of which the existence is determined
+in two different ways, producing a corresponding variety
+in the form of the Definition.
+
+⁸ Anal. Post. ii. 10. 4.
+
+b Anal. Post. ii. 8. 3. Ἀδύνατον εἰδέναι τί ἐστιν, ἆγνοοῦβτας εἷ ἔστιν.
+Ibid. ii¹ 7. 9.. Ἀνάγκη γὰρ τὸν εἰδότα τὸ τί ἐστιν ἄνθρωπος ἢ ἄλλο ὁτιοῦν,
+εἰδέναι καὶ ὅτι ἔστιν· τὸ γὰρ μὴ ὒν οὐδεὶς οἶδεν ὅ τι ἐστίν, ἀλλὰ τί μὲν
+σημαίνει ὁ λόγος ἢ τὸ ὄνομα, ὅταν εἴπω τραγέλαφος, τί δ’ ἔστι τραγέλαφος
+ἀδύνατον εἰδέναι.
+

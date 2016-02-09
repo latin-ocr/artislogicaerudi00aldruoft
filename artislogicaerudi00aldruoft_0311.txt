@@ -1,0 +1,48 @@
+APPENDIX. —2-27
+
+Example differs from Induction in two priucipal
+points. 1. Induction enumerates all the individuals
+in the minor term, so as to constitute the middle: Ex-
+ample selects single instances. ἱ). Induction stops at
+the universal conclusion: Example proceeds to infer
+syllogistically a conclusion concerning another indi-
+vidualb.
+
+The Examp]e‚ as thus exhibited‚ has no loyical value
+as an independent reasoning. We are not warranted in
+assuming, as a necessary law of thought, that two things
+which resemble each other in any one ‘qiven quality must
+likewise resemble each other in augy other& The reason-
+ing may have more or less material weight‚ according
+to the character of the particular qualities compared,
+and to what we may empirically know of their connection
+with each other. It thus comes under the kind of
+evidence mentioned by Bishop Butler‘¹ as probable‚·
+which admits of degrees, and of all variety of them,
+from the highest moral certainty to the very lowest
+presumption. But degrees of evidence are inadmissible
+in Pure Logic. Either the conclusion necessarily
+follows from the admitted truth of the premises‚ or it
+does not. In the former case, all reasonings are in a
+logical point of view equally necessary3 in the latter, all
+are equally worthlesse. That the infcrence in Example
+is material, not formal, appears the instant we attempt
+to state it in symbolica] form: e. g. A and Β are both
+X, A is also Y, therefore B is Y. This reasoning has no
+
+force until we know the matter, i. e. what particular
+objects are signified by A and Β, Χ and Yf.
+
+b Anal. Pr. ii. 24. 3.
+
+⁰ Cf. HegeL Werke, vol. v. p. 151.
+
+‘¹ Introduction to the Analogy.
+
+θ See Sir William Hamilton, Diseussions, p. 159.
+
+ί Kant classes imperfect induet-ion and analogy as sylloyisms os tltejucly-
+ment, and describes them as furnishing a losshal presumption of their con-
+
+Q ’2
+

@@ -1,0 +1,39 @@
+90 ARTIS LooicAE
+
+conclusio vel expositae eadem, vel eam inferens,
+vel praemissae contradictoria, ut in exemplo.
+
+cEs Nullum A est B
+Ar Omne C est Β : Ergo
+E Nullum C est A.
+
+ad
+
+cE Nullum B θεῖ A ’
+ΖΑ Omne C est B ε Ergo
+rEnt Nullum C est A.
+
+dIs Aliquod Β θεῖ A
+Am Omne Β θεῖ C : Ergo
+Is Aliquod C θεῖ A.
+
+ad
+
+dA Omne Β θεῖ C
+rI Aliquod A θεῖ Β : Ergo
+I Aliquod A est C.
+
+bAr Omne A θεῖ Β
+Olc Aliquod C non θεῖ Β; Ergo
+O Aliquod C non θεῖ A.
+
+ad
+
+bAr Omne A θεῖ Β
+bA Omne C θεῖ A : Ergo
+ΤΑ Omne C θεῖ Β. g
+
+ε Arohbishop Whately givos an ostensive reduction of
+ssaroko and Bokardo to Forio and Darii, by eonverting the
+major promise by contraposition. Logia, b. ii. c. 3. ξ. 5.
+

@@ -1,0 +1,43 @@
+RUDIMENTA. 51
+
+morum, quae triplex est; 1. Necessariff, quando
+extrema essentialiter conveniunt3 2. Contingens,
+quando accidentaliter tantum; 3. Irnpossibz'lis,
+quando essentialiter differunt. Unde Propositio
+Indefinita pro Universali habetur in materia iin-
+possibili et necessaria; pro Particulari vero, in
+contingenti.
+
+Quare, Quantitas Propositionis, quatenus ad
+Syllogismum facit, est duplex: Universalis et
+Particularia Et nota, quod Universalis affirmans
+
+Opusc. xlvii. Zabarellss, de Quart. Fig. cap. 7. Some
+additional remarks will be found in the Appendix, note E.
+
+⁰ Aristotle does not recognise this account of matter as
+understood in every pure proposition, but only as expressed in a
+modal. (See above, p. 46.) In the latter case it is no test of
+quantity, as there are universal and particular propositions of
+each mode. The distinction in the text, however, seems to
+have been early introduced. It is implied in the connnentary
+of Ammonius on de Int. 7. (Scholia, p. 115. a. 14.) And
+Petrus Hispanus defines the three kinds of matter thus:
+Necessary, when the predicate is of the essenoe, or a property:
+continyent, when it is an accident to the subject: impossible,
+when a repugnant quality. In this point of view, the sup-
+posed criterion of quantity is inapplicable to propositions in
+which the predicate is an inseparable accident. But the
+whole question of matter is clearly extra-logical. See Sir
+W. Hamilton, Disczcssz'ons, p. 148. The Loyicicm cannot
+determine a proposition to be necessary or contingent, unless
+stated as such. The point must be ascertained from the Science
+to which the proposition materially belongs. The Logician,
+however, may use indefinites as particulars, not assigning a
+quantity from the matter, but adinitting an indefinite premise
+(and therefore conclusion) where the rules of the figure do not
+require an universal. Hence the minor premise in fig. 1. may
+be indefinite, but not the major. See An. Pr. i. 4. 9.
+
+122
+

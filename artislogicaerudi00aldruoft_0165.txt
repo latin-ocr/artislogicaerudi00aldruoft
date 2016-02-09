@@ -1,0 +1,37 @@
+RUDIMENTA.
+
+cE Nullum Β θεῖ A
+
+ΖΑ Omne C est B: Ergo
+rEnt Nullum C est A.
+
+(ΖΑ Omne Β θεῖ A
+rI Aliquod C est Β : Ergo
+I Aliquod C θεῖ A.
+
+fE Nullum B θεῖ Α
+rI Aliquod C est B: Ergo
+O Aliquod C non est A.
+
+A Omne Β θεῖ A
+A Omne C est Β : Ergo
+I Aliquod C θεῖ A.
+
+Ε Nullum Β θεῖ Α
+Α Omne C est B: Ergo
+O Aliquod C non est A.
+
+II.
+
+cEs Nullum A θεῖ Β
+Α Omne C est Β : Ergo
+rE Nullum C θεῖ A.
+
+cAm Omne A θεῖ Β
+Es Nullum C est B ε Ergo
+trEs Nullum C est A.
+
+G
+
+81
+

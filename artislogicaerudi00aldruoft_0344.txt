@@ -1,0 +1,46 @@
+260 APPEanx.
+
+with an axiom. Thus, for example, to define a triangle
+as a rectilinear figure of three sides involves the as-
+sumption that three straight lines can enclose a space,
+which is quite as much an axiom as the assumption
+that two cannot. Again‚ to desine an acute angled
+triangle as one that has three acute angles involves the
+assumption that three straight lines inclined at acute
+angles to each other will enclose a space. Accordingly
+we find in the ordinary editions of Euclid many of the
+definitions accompanied by figures, which furnish an
+evidence of the possibility of the conception by a direct
+appeal to the intuition. So also the definition, that “a
+circle is a figure contained by one line which is called
+
+the circumference, and is such that all straight lines
+drawn from a certain point within the figure to the
+
+7
+
+circumference are equal to one another-,³ involves the
+assumption that a line so drawn as to be always equally
+distant from a given point will return into itself 01· be
+one line including a space ;·—an assumption which
+might be more properly classed as an axiom than as a
+definition ¹¹.
+
+From this we may conclude that the numerous attempts
+of Geometers to diminish or get rid of their axioms have
+been steps in a wrong direction⁵. The number of
+axioms‚ instead of being diminished‚ should be very
+considerably increased 3 and the errors that have hitherto
+prevailed 011 1116 nature and foundation of Geometrical
+reasoning have been mainly owing to the manner in
+which many indispensable assumpt-iens have been either
+
+omitted altogether, or concealed among the definitions.
+
+¹‘ See WVhowcll, Philosophy qs the Inductive Scicnee, vol. i. p. 108. ed.
+1847.
+
+³ An account of thirty methods at different times proposed, in order to
+avoid tho assumption of the twelslh axiam of Euclid, is given in the
+Appcmlix to (ianm-511 Thompson's (leomelry willmn! Arionis.
+

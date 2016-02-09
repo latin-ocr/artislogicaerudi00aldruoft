@@ -1,0 +1,41 @@
+RUDIMENTA. 91
+
+ξ. 7. REDUCTIOle ostensivae validitas sic osten-
+ditur. Ex praemissis reducendi, per conversionem
+imperatam, necessario colliguntur praemissae re-
+ducti : atque ex iis, per figuram primam, conclusio
+reducti : quae vel ipsa conclusio reducendi erit, vel
+per illativam conversionem fiet.
+
+Reductionis per Impossibile validitas sic osten-
+ditur. Quoniam praemissae ex hypothesi sunt
+semper verae, ergo contradictoria praemissae nun-
+quam vera: ergo contradictoria conclusionis nun-
+quam verah: (nam has simul veras esse demon-
+stratur in Barbara) ergo contradictoria conclusionis
+semper falsa: ergo conclusio ipsa semper vera.
+
+[Reducitur etiam quilibet modus innominis,
+facto quod praecipitur, ad praemissas sui subalter-
+nantis. Tum vero conclusio, quae colligetur in
+prima, erit vel expositae subalternam, vel in expo-
+sitam per accidens convertetur.
+
+Reductionesi (cum primae ad reliquaS, tumffl'ff’r' 1.
+
+This had been done before, partly by Jung, in the Logsica
+Hambu‘rqensis, B. III. ch. 12. ξ. 15. and partly by Wolf, Philo-
+sophia Rationalis, ξ. 384.
+
+¹¹ Since a false conclusion cannot be drawn without at least
+one false premise, see An. Pr. ii. 2. 1. But in the present
+syllogism, one premise is given true, being one of those of
+the original syllogism; the other, therefore, is false, which is
+the contradictory of the original conclusion. The syllogism
+ad impossibile will not always be in Barbara; though it is so
+in the reduction of Baroko and Bokardo.
+
+ἱ Of these reductions‚ it need only be observed, that they
+are only possible where the same problem can be proved in
+both figures; hence only negative syllogisms ean be reduced
+

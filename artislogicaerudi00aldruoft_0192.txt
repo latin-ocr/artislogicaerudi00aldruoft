@@ -1,0 +1,42 @@
+108 ARTIS LOGICAE
+
+Si C turn non D
+D non C
+
+non C tum D
+non D C
+
+ξ. 3. SUPEREST Syllogismus quidam Hypothe-
+ticus redundanS, alio nomine Dilemmai, quia ple-
+
+¹ Of the word Dilemma, various etymologies have been
+proposed; 1. a choice of alternatives offered to an adversary;
+2. a double premise assumed (λῆμμα); 3. a not very probable
+one given by Keckermann, ‘⁶ a δὶς λαμβάνεσθαι, quia utrinque
+capit et constringit adversarium contra quem adducitur.’⁷ The
+first seems to be adopted by Aldrich, and is perhaps supported
+by Cassiodorus, Expos. in Ps. 138, 9. “ Dssemma, quod fit ex
+duabus propositionibus pluribusve, ex quibus quicquid electum
+fuerit, contrarium esse non dubium est.'⁷ Cf. Victorinus in
+1 Rhet. Cic. 86. But whatever be the origin of the word, it
+was certainly employed as synonymous with the compleoeio of
+Cicero, (de Inv. l. 29.) This is expressly stated by Servius,
+(on AEn. ii. 675.) and the word had been previously used in a
+similar sense by the Greek rhetoricians. See Hermogenes,
+de Inv. p. 167, ed. VValz; Apsines, Ars Rhet. p. 524. In this
+sense it may be defined, (omitting the adversary, as belonging
+rather to Rhetoric or Dialectic than Logic‚) “A syllogism,
+having a conditional major premise with more than one
+antecedent, and a disjunctive minor.’' Its different forms
+may be thus exhibited:
+
+I. Simple Constructive.
+IfAis B, C isD; andifEis F, C isD;
+But either Ais B, or E is F;
+C is D.
+
+II. Complex Constructive.
+lfA is B, C is D; and if E is F, G is- H:
+But either A is B, or E is F;
+lfiithcr (¹ is D, (η- (i is H.
+

@@ -1,0 +1,48 @@
+110 ART1s LOGICAE
+
+statam appellavit3 Favorinus eleganter uxoriam.
+
+Porro, nec formosa omnis est communis, nec de-
+
+AristRhet. formis, poena. Denique Dilemma facile retorqueri
+
+11‘23'15' potest. Puta, Si formosam dumero, non habebo
+poenam ,· si deformem, non habebo communem.
+
+Dilemma nihil aliud est, quam Inductio Nega-
+
+tivam; in qua Syllogismi Major Conditionalis est
+
+¹¹¹ This remark is taken from VVaffls, and is only applicable
+to the Dilemma in his sense of the term. The negative
+induction appears categorically in this form:
+
+There are no instances of C being D, nor of Ε being F.
+But these are all the possible instances of A being B.
+There is no instance of A being B.
+
+The Dilemma of Aldrich cannot, as it stands, be reduced to
+this form. The categorica] conclusion, e. g. Nulla uxor est
+ducenda, does not follow from the preniises of the Dilemma
+of Bias; but requires the additional assumption, that neither
+matrimonial nuisance is, under any circumstance, to be
+endured. This brings it to Wallis's form, thus:
+
+Si ducenda est umor, aut formosa ducenda est, aut deformis:
+Atqui non est ducenda formosa, neque deformis:
+Erqo, Umor ozon est ducenda. (Burgersdyck, Inst. Loy. ii. 13.)
+
+The Complex Dilemma, as given above, may be reduced,
+if required, to a series of hypothetical syllogisms, and so to
+categorieals: thus:
+
+Constructive. Destructive.
+IfEisF,GisH; IfEisF‚GisH;
+IfAisnotB‚EisF; IfCisD‚GisnotH;
+
+ΗΑ is not B, G is H. If C is D, E is not F.
+IfCisnotD,AisnotB; IfAisB‚CisD:
+If C is not D, G is H. If A is B, Ε is not F.
+
+The reduction os the simple Dilemma is obvious enough.
+

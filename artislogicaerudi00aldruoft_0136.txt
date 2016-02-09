@@ -1,0 +1,43 @@
+52 ARTis LoclcAE
+
+symbolum habet A; negans E: Particularis affir-
+mans symbolum I 3 negans O.
+
+Asserit A ; negat E .· Universaliter amboe.
+Asserit I ; neyat O: sed Particularz'ter ambo1’.
+
+In Universah, signum affirmans distribuit tantum
+Subjectumq: Negans, etiam Praedicatum. Nam
+ut verum sit Omne α est b, sufficit aliquod b con-
+venire omni a: sed falsum est mallum a· esse b, si
+vel aliquod b conveniat alicui a. Eodem argu—
+mento, ut sit verum Aliquod a est b, sufficit si vel
+aliquod b conveniat alicui a .· sed falsum est quod
+
+aliquod a non est b, nisi illud a differat a quovis bs
+Et proinde
+
+P On these lines Wanis remarks, “Nam tam erant soliciti
+de syllabarum quantitate, aut syntaxeos ratione, quam ut
+Rhythmus constet aut ὁμοιοτέλευτον. Alii tamen. quo constet
+versus, pro sed universaliter, substituunt rerum generantem et,
+quo Syntaxi prospiciatur, pro ambo, neglecto Rhythmo, substi-
+tuunt ambce,· respicientes vocem subintellectam, propositiones.’'
+
+q In opposition to this, the almost unanimous doctrine of
+former Logicians‚ the New Analytic of Sir William Hamilton
+is founded on the principle that both ternis in every propo-
+sition have a determinate quantity always understood in
+thought, and which ought to be expressed in words. That a
+quantified predicate must be admitted, in certain cases at
+least, as an addition to the ordinary logical forms, is un-
+questionable; but its systematic introduction into the present
+work would not be possible without a complete rewriting of
+Aldrich's text.
+
+Γ Aldrich assumes the distribution of the predicate in a
+negative, to prove the simple conversion of E. Those who
+adopt Aristotle's proof of the latter, (see below, p. 61.) might
+deduce the former from it. Both however may fairly be
+allowed to stand on their own evidence.
+

@@ -1,0 +1,42 @@
+234 APPENDlx.
+
+contradictor-y propositions as alternatives, one of them
+being disproved by a prosyllogism.
+
+Either Some A is not B, or All A is B ; in which latter case
+All O is A;
+Therefore, All G is Β.
+
+This conclusion being manifestly false, we have no
+choice but to admit the other alternative. The pro-
+syllogism in this case, as in the former, may be omitted,
+if the falsehood of the alternative is evident without it.
+We have thus the Disjunctive Syllogism.
+
+We may agree therefore with M. St. Hilaire thus far,
+that, though the form of the Hypothetical Syllogism is not
+explicitly exhibited in the extant writings of Aristotle,
+we have nevertheless the data from which it needs but
+one step to develope it. Whether that step was taken
+by Aristotle himself in a lost work, or supplied by his
+disciples, is a point of little consequence3 though
+externa] testimony is decidedly in favour of the latter
+supposition.
+
+Far more important, in a logical point of view, is the
+inquiry whether the hypothetical syllogism, by whom-
+soever analysed, is a legitimate addition to the forms
+of reasoning acknowledged in Aristotle’s Organon3 and
+consequently, whether its omission can fairly be cen-
+sured as a deficiency in that treatise. On this question,
+I find myself compelled to hold an opinion different
+from that of the Logicians whose views have been mainly
+followed in the present work.
+
+By Kant and his followers, the Hypothctical Pro-
+position is described as representing a form of judgment
+essentially distinct from the Gategorical 3 the latter being
+thoroughly assertorial, the former problematical in its
+constituent parts, assertorial only as regards the relation
+between them. Two judgments, each in itself salse,
+

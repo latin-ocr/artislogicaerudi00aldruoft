@@ -1,0 +1,38 @@
+102 ARTIS LOGICAE ,
+
+CAP. IV.
+De Syllogismis H ypotheticisa.
+
+ξ. l. Syllogismus Hypotheticus‚ est in quo una,
+duee, vel tres propositiones hypotheticae. v. g. Si
+sapit, est beatus: Sapit ‚· ergo est beatus. Vel, Qui
+sapit est beatus: Si est Philosophus, sapit ; ergo Si
+est Philosophus, est beatus. Vel, Si sapit, est beatus:
+Si est Philosophus, sapit; ergo Si est Philosophus,
+est beatus. Nos de eo tantum loqui instituimus
+qui est caeteris usitatior, in quo nempe Major
+Hypothetieab.
+
+⁸ Hypothetical syllogisms, in the present sense of the term,
+are not treated of by Aristotle. An exposition of them was
+first sketched out by Theophrastus, which was afterwards
+further developed by Eudemus and the Stoics. None of these
+works, however, have come down to us. A few notiees may
+be gathered from the Greek commentators; but our principal
+extant authority on the subject is Boethius. Of the συλλο-
+γισμοὶ ἐξ ὑποθέσεως of Aristode, which Pacius has confounded,
+and Μ. St. Hila‘u'e attempts to identify‚ with the hypotheticals
+of Theophrastus, some account will be given in the Appendix,
+note I. In the Proleqomena Logyica, Ι have given a theory
+of hypotheticals different from that commonly adopted by
+LogicianS. But that theory, though I believe it to be more
+accurate than that of Aldrioh, differs too widely from his
+text to be admissible here. Ι have therefore transferred it
+to the Appendix, noto I.
+
+¹³ This is the only kind of hypothetical syllogisin in which
+the conclusion is catcgorical. If the minor premise, or both
+promises, are hypothet'mal, the conclusion is so too. A
+syllogisni with 2211 three propositions hypotheticnl was called
+by 'l‘l1oopl11·ast11s‚ δι’ &mv ὑποθετικός, (Scholia, p. 179. a. 16.)
+

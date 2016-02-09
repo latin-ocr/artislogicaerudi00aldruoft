@@ -1,0 +1,44 @@
+APPENDIX. 2353
+
+In the ἀπαγωγὴ εἷς τὸ ἀδύνατον, the proof is of the same
+character. It has indeed no special reference to Dialectic,
+and is frequently employed in demonstrationf3 Aristotle’s
+own example being taken from Geometry. But still its
+connexion with the original question is not formal, but
+material ; for we assume,
+
+All A is Β ;
+All C is A;
+Therefore, All C is B.
+
+And this conclusion, from material grounds, we know to
+be false. We also know (materially again) that the minor
+premise is true; and all that is logical in the process is
+the consequent decision that the major must be false,
+and hence, by the principle of contradiction, that the
+original question is true.
+
+But one step only is wanting, to convert these material
+consequences into formal ones. We have in the συλλο-
+γισμὸς ἐξ ὁμολογίας clearly the germ of the Conditional
+Syllogisms of Theophrastus. It needs but to cornmence
+with the original hypothesis, not as a mere dialectic
+convention, but as a proposition having its own inde-
+pendent value, and we have at once a distinct form of
+argumentation, to which the Aristotelian specimen is
+related merely as a prosyllogism supporting one of the
+premises. This done, no great sagacity is required to
+see that the prosyllogism may in this, as in any other
+case, be omitted or not, according to the material
+character of the premise which it supports.
+
+To the ἀπαγωγὴ εἷς τὸ ἀδύνατον may in like manner be
+traced the origin of the Disjunctive Syllogism. The
+most natural proceeding in this case is to state the two
+
+f For the principle of contradiction may be assumed as seff-evident,
+without any convention between disputants. And in this lies the principal
+
+difference between the deductioacl impossibile and the syllogism of agree-
+ment. See Anal. Pr. i. 44. 3.
+

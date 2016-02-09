@@ -1,0 +1,40 @@
+APPENDIX. 171
+
+Mr. Mill. In these, the subject is neither a word nor
+a notion, but the several individual things of which
+a certain notion is predicable. For example, in the
+Proposition, “ All men are mortal‚’' we do not mean
+that the conception Man includes Mortality‚ but that the
+individuals possessing the attributes comprehended in
+the former notion possess also those comprehended in
+the latter.
+
+In distinguishing a certain portion of these Propo·
+sitions as predicating Property, we must divest ourselves
+altogether of the notion of necessary or contingent con-
+nexion, and regard the word purely as a translation of
+the Aristotelian ἴδιον. These Propositions assert, not
+merely that certain objects possess certain attributes, but
+that they alone possess them. This assertion, however,
+is very imperfectly expressed in the ordinary form of the
+affirmative proposition. The judgment, ‘⁴ all equilateral
+triangles are equiangular‚'’ does not by its mere form
+imply that all equiangular triangles are equilateral. This
+knowledge is conveyed by the geometrical matter, not by
+the logical form. To remedy this defect of language‚ it
+is necessary in a system of formal Logic to distinguish
+the propositions in which property is predicated from
+those in which accident is predicated‚ by attaching an
+universal sign to the predicate. ‘⁶ All equilateral triangles
+are all equiangular‚’' will then denote that the predicate
+is a property of the subject3 while “ all men are some
+m01·tals,” distinguishes by the particular sign that the
+predicate is an accident.
+
+The distinction adopted by Aldrich between Property
+and Accident, as necessarily οι· contingently connected
+with the subject, is untenable in formal Logic. If not
+expressed in the copula, it implies the extralogical
+knowledge of a law of connexion existing o'r not between
+the objects signified by'the terms3 a law which cannot
+

@@ -1,0 +1,43 @@
+104 ARTls LoolcAE
+
+Conditionalis cujusque sententia est, quod, data
+Conditione, datur Asserti03 quod bifariam explicari
+
+confounded with the inquiry, whether the hypothetical pro-
+position is formally the same with the categorical. The latter
+is answered by Kant in the negative, but that decision does
+not affect the present question. The reduction of hypothetical
+syllogisms must be governed by the sanie rules as that of
+eategoricals; and in the latter case, it is allowable to substitute
+for a given proposition another which, though not identical, is
+implied by it. For instance, a particular proposition may be
+employed in the place of an universal. So in hypotheticals,
+if the new propositions contain the same ternis, and are
+immediately deducible froin the original ones, the reduction ’
+is legitimate. This will generally be the case when the
+hypothetical proposition has but three ternis; both clauses
+having the same subject or the same predicate. The following
+instances may thus be reduced :-——
+
+Ι. If All A is B, Al] A is C, All B is O,
+But AllAisB3 ] to [AllAisB;
+All A is C. All A is C.
+’[Ι. If All A is B, All C is B, All Ais B,
+But All A is B; } to {All C is A;
+All C is B. All C is B.
+These syllogisms‚ indeed, were admitted by the Ramists,
+the great advocates of hypotheticals, to be categorical. But
+where the hypothetical has four ternis, as, “ Is A is B, C is
+D‚” this mode of reduction is not practicable; yet even in
+this case a categorical syllogism may be constructed, whose
+propositions‚ though expressed in different ternis, are implied
+in thoso of the original syllogism. Thus:
+
+Constructive. Destructive.
+Every case of A being B, is a Every case of A being B, is a
+case of C being D. case of C being D.
+'l’his is a case of A being B. This is nota case of C being D.
+This is a case of C being D. Tliisisnotacase ofA beingB.
+
+The abore directions arc all that can be given 011 the ordinary
+

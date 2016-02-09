@@ -1,0 +1,42 @@
+APPENDIX. 253
+
+The question, why a rectilinear figure of three sides, be
+it called triangle-or not, has its angles equa] to two
+right angles, remains unanswered.
+
+Secondly. If geometrica] reasoning is merely “the
+logical filiation of consequences which follow from an
+assumed hypothesis,” there is no reason why its con-
+clusions should be more important than those of any
+other analysis of imaginary notions, such as (to use
+Mr. Mill's illustration) a deduction of the physiologica}
+properties of an imaginary animal, or the political
+history of an imaginary commonwealth. The whole
+character and history of mathematical science militates
+against the admission of this consequence.
+
+Π. Mr. Mill, while agreeing with Stewart that mathe-
+matica] necessity is merely hypothetical and conse-
+quential‚ saw clearly that Stewart's doctrine concerning
+Definitions was untenable. This led him to adopt the
+second theory, according to which geometrica] inferences
+depend on Postulates assuming the existence of the
+objects defined. Thus a triangle has its angles equa]
+to two right angles, because there may really exist a
+rectilinear figure having three sides, and this existence
+is implied, though not verbally expressed, in the defi-
+nition.
+
+This theory derives some apparent support from the
+use of the principle of superposition. When, for instance,
+the demonstration of the fourth proposition of Euclid
+supposes the triangle A B C to be applied to the triangle
+D E F, it clearly assumes the existence of both triangles,
+not merely as general notions, which are identical in
+thought, but as distinct individual magnitudes, occupy-
+ing space, and capable of being transferred from one
+position in space to another. One non-entity cannot be
+
+cle tout autre sens, s'il en a, pour n'avoir plus que celui auquel on le}
+destine uniquement.’¹
+

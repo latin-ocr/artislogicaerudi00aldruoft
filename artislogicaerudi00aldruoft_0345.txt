@@ -1,0 +1,40 @@
+APPENDIX. 261
+
+Some valuable hints on this point may be gathered
+from a very able and interesting paper by Professor De
+Morgan, printed in the Compam'on to the Almanac for
+1849. The following extracts indicate a principle which
+might be pursued to further results.
+
+“Book I. Definitimw. Of these, iii, vi, xiii, are obvious
+statements, but not definitions of vvords3 viii, xxvi, xxxi
+to xxxiv, are never subsequently used, xviii, if semicircle
+have its etymological meaning, as seems the intention,
+is a theorem, which ought to be iii. 1. The remaining
+definitions are of two kinds: first, those which do not
+explain their terms, but demand a notion already existing
+in the student's mind3 they are i, ii, iv, v, vii, ix: secondly,
+purely verba] definitions3 they are x, xi, xii, xiv to xvii,
+xix to xxx, and xxxv, Insist on angle as a maym'tude‚·
+on the comparison of angles as to greater, equal, or less,
+by superpositi0n3 on the rights of angles equal to and
+greater than two right angles. The angle made by a
+straight line with its own continuation is a definite
+angular magnitude, and its half is the best definition
+of a right angle. lt is to be regretted that there is no
+single phrase for ‘⁶ two right angles„
+
+“Postulate and aaeioms: In Euclid, postulates and
+common n-otz'ons. All Geometrical demands are postulate-s·
+in Euclid3 lais axioms or common notions are in every
+instance notions common to all kinds of magnitude as
+well as space magnitudes. Restore this: that is, let
+the postulates be, Simson's postulates, and axioms, x, xi,
+xii3 but instead of xi, substitute “if two right lines
+coincide in two pointS, they coincide when produced,”
+as more sels-evident.' From this it is seen that the
+doubles of all right angles are equal, and thence that
+all right angles are equal; and this should come between
+I. 1⁴2. and I. 13. as a proof of the theorem, “all right
+angles are equal.'' For xii. substitute “two lines which
+

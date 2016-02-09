@@ -1,0 +1,41 @@
+RUDIMENTA. 89
+
+Utriusque praxin pro Modis nominatis docent
+ipsa Modorum nomina a Scholasticis in hunc
+finem conficta. Nam in iis tres vocales sunt
+totidem propositiones Syllogismi sua quantitate et
+qualitate signatae. Consonae initiales B. C. D. F,
+notant modum primae, ad quem sit Reductio.
+S. P. propositionem, quam vocalis proxime ante-
+cedens designat‘, esse in Reductione convertendam:
+S simpliciter3 P per accidens. M transponendas
+esse praemissas. K reductionem fieri per impos-
+sibile, i. e. pro praemissa, cujus symbolo adhaeret,
+sumendam esse Conclusionis contradictoriam f.
+Quibus ex praescripto factis, colligitur in prima
+
+by respectable authorities, is incorrect: as may be shewn by
+substituting the definition. What is the meaning of “the
+change of an imperfect to a perfect mood to the impossible ἶ)”
+The error has been caused by the Aristotelian expression,
+ἀπαγωγὴ εἷς τὸ ἀδύνατον; in Which, however, ἀπαγωγὴ does not
+mean reduction. The deductio ad impossibile, as it is usually
+rendered, (abductio would perhaps be better) is one species
+of the συλλογισμὸς ἐξ ὑποθέσεως, (see Appendix, note L) the
+object of which is, to prove the truth of a given problem, by
+inferring a salsehood from the assumption of its contradictory.
+This may be employed in the reduction of syllogisms, but it
+is also used for other purposeS, as by Geometers, (Euclid. i. 7.)
+The correct expression is therefore Recluotio per deductionem ad
+imposssibile, or elliptically‚ Reductio per impossibile. The ἀπαγωγὴ
+of An. Pr. ii. ⁴25. will ber explained hereafter.
+
+Any ‘mood may be reduced by the deductio ad impossibile,
+though in practice it is usually confined to Baroko and
+BokardO.
+
+f Whence the lines,
+
+S vult simpliciter verti ; Ρ vero per acci:
+M vult transponi; C [K] per impossibile duci.
+

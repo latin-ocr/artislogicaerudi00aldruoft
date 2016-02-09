@@ -1,0 +1,34 @@
+82 ARTIS. LOGICAE
+
+fEs Nullum A est B
+tl Aliquod C est B: Ergo
+nO Aliquod C non est A.
+
+bAr Omne A est B
+Olc Aliquod C non θεῖ Β; Ergo
+O Aliquod C non θεῖ A.
+
+E Nullum A θεῖ Β
+Α Omne C θεῖ B: Ergo
+O Aliquod C non θεῖ Α.
+
+Omne A θεῖ Β
+Nullum C θεῖ B: Ergo
+Aliquod C non θεῖ A.
+
+omn>
+
+III.
+
+(lAr Omne B θεῖ Α
+Ap Omne B θεῖ C : Ergo
+tI Aliquod C θεῖ Α.
+
+fEl Nullum Β θεῖ Α
+Ap Omne Β θεῖ C: Ergo
+tOn Aliquod C non est A.
+
+(113 Aliquod Β θεῖ Α ,
+Am Omne Β θεῖ C ε Ergo
+Is Aliquod C θεῖ Α.
+

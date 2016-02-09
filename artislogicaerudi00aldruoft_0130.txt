@@ -1,0 +1,44 @@
+46 ’ Aarls LOGICAE
+
+{³¹¹2al‘lpr‘ &c. Categorica pura, sive Propositz'o de inesses,
+
+De Int- 12- est quae pure affirmat vel negat3 i. e. simpliciter
+
+the necessary, the impossible, the concinam& and the possible.
+(dvayxaiov—<i&uvarov-—e’vdexdfaeevov—-Svvarov.) These he afterwards,
+Anal. Pr. i. Q. 1. reduces to two, the necessary and the con-
+tingent. See St. Hilaire‘s Translation, Preface‚ p. 66. That
+he adds the true and the false is questionable; the words
+ἀληθές, οὐκ ἀληθές, in de Int. 12. 10. are perhaps only intended
+to mark the previous four pairs as contradictories, of which
+the one must be true, the other false. Subsequent Logicians,
+following the Greek Commentators, have multiplied the
+number of modes acl infinitum. Any adverb annexed to the
+predicate, “ homo currit velociter? or even an adjective qualifying
+the subject, “ homo albus currit‚” was regarded as forming a
+modal. The norme τρόπος, as applied both to the modes of
+propositions and to those of syllogisms, is not Aristotelian,
+but comes from the Greek Commentators. (Ammonius, Schol.
+p. 130. a. 16.)
+
+The post-Aristotelian modes affect the subject or the
+predicate alone, not the relation between them. They are
+thus only pure propositions with complex terms, as is re-
+marked by Melanchthon, Erotemata. Dialectica, p. 132, ed. 1568.
+Aristotle's modes affeet the copula and the manner of
+thinking, and are psychologically distinct forms of the pro-
+position, as they are rightly treated by Kant, Kritik der r. V.
+p. 71. But in a logical point of view, the distinction of
+modals is unimportant, as not influencing any further process
+of pure thinking. For this reason they are out of place in the
+logical writings of Kant and his followers. See further,
+Prole-qomemc Loyzfca, note G. (and ed. note H.)
+
+‘De messa—rosa ὑπάρχειν. We find two expressions in
+Aristotle, both of which are sometimes rendered by “ being] in.”
+1. ὑπάρχειν, by which the predicate is said to be in the subject.
+This iS equivalent ‘CO κατηγορεῖσθαι. Τὸ Α ὑπάρχει παντὶ τῷ Β = τὸ
+A κατηγορεῖται κατὰ παντὸς τοῦ B Ξ Α inest omni Β. 2. εἶναι ε’ν,
+by which tho subject is said to be in the predicate. A ἐστιν ἐν
+ὅλῳ τῷ Β = Omma Α est B. This is exactly the reverso of
+

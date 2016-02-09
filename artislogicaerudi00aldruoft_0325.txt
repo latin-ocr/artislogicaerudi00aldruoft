@@ -1,0 +1,42 @@
+APPENDIX. ‘241
+
+Syllogism is supposed to proceed either from the affirm-
+ation of one member to the denial of the rest, or from
+the denia] of all but one to the affirmation of that one,
+by the Principle of Excluded Middleq.
+
+This can scarcely be regarded as a correct analysis of
+the process, unless the two members are for-mally stated
+as contradictory. The Principle of Excluded Middle
+asserts that every thing is either A or not A, that of two
+contradictories, one must exist in every subject3 as the
+Principle of Contradiction asserts that they cannot both
+exist. But if the two members are not stated as contra-
+dictories, if my disjunctive premise is, ‘⁶ All G is either A
+or B‚” Ι make the material assertion that All C which is
+not A is Β. If then I reason, “ This G is not Af, there-
+fore it is B‚” Ι employ the Principle of Identity in addi-
+tion to that of Excluded Middle. Again, if Ι maintain
+that No C can be both A and B, Ι make the materIaI
+assertion that No O which is A is B; and from hence 10
+reason, “ This C is A, therefore it is not B,’‘ requires not
+the Principle of Excluded Middle, but that of Contra-
+diction. In the first case, the Excluded Middle does
+not lead directly to the conclusion, bnt only to the con-
+traposition of the minor premise. When we deny this
+C to be A, this principle enables us to assert that it is
+not-A, and hence to bring the reasoning under the Prin-
+ciple of Identity. But in the second case, in which one
+of the opposed members is affirmed, the ground on which
+we deny the other, is not because both cannot be false,
+but because both cannot be true.
+
+It may be questioned whether this second inference is
+warranted by the form of the disjunctive premise. Boe-
+
+(ι Kant, ξ. 27 sqq. 77, 78. Krug, ξ. 57, 84, 85. Fries, ξ. 33, 59.
+f The indefinite minor, “ but ri! is not A,‘’ is as objectionable in this
+syllogism as in the conditional.
+
+R
+

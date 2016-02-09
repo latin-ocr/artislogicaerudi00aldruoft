@@ -1,0 +1,46 @@
+RUDJMENTA. 127
+
+disciplinis Theoreticis3 et a notione Subjecti
+incipiens, principia ejus et species investigat,
+donec a summo genere in ista disciplina per-
+
+veniat ad infimam speeiemf. 2. Resolutorz'a sive {prlffnib
+
+Analytica g, quae inservit disciplinis Practicis3 etffinteili.
+eap .
+v1.7.6.
+
+The Principia are the ἀρχαὶ ἐξ ὧν, or axiomatic principles, from
+which the demonstration commences. Species are the sub-
+divisions of the general Subject; as the square, the triangle‚
+(icc. Cf. Anal. POSt. i. 10. 4. Πᾶσα γὰρ ἀποδεικτικὴ ἐπιστήμη περὶ
+τρία ἐστίν, ὅσα τε εἶναι τίθεται (ταῦτα δ’ ἐστὶ τὸ γένος, οὗ τῶν καθ’ αὑτὰ
+παθημάτων ἐστὶ θεωρητικὴ) καὶ τὰ κοινὰ λεγόμενα ἀξιώματα, ἐξ ὧν πρώτων
+ἀποδείκνυσι, καὶ τρίτον τὰ πάθη, ὧν τί σημαίνει ἕκαστον λαμβάνει. On
+the position of these in demonstratimi, some remarks will be
+found in Appenclix, note C and K: see also Trendelenburg,
+Erlauterungen, p. 118.
+
+f “ Exemplum evidens in primis est in scientia physica,
+ubi primum tractatur de corpore naturali in genere, deque
+affectionibus ejus et principiis; post descenditur ad species
+corporis naturalis, videlicet corpus simplex, ccelum, ele-
+mentum; post mixtum, idque iterum vel imperfecte mixtum,
+vel mete01·a; post perfecte mixtum, idque iteruin vel in-
+animatum, ut metalla, mineralia, vel animatum, idque vel
+vegetans, ut planta, vel sentiens : idque iterum vel irra-
+tionale, ubi tractantur omnia animalia bruta: vel rationale,
+ut homo ; atque ita a summo genere ad species infimas
+devenitur. Eadem methodus observatur in mathematica et
+ph)·sica.'’ Keckermann, Syst. Log. lib. iii. Tract. ii. cap. l.
+Cf. Zabarella, de Meth. lib. ii. cap. 7.
+
+g The Analytic, as well as the Synthetic Method, observes
+a deductive order from premises to conclusion. Its name
+then refers, not to the metaphysical relations of Species and
+Genus as whole and part, but to that common illustration of
+Aristotle's‚ by which, in productive or practical operation, the
+product or end is represented as a whole, and the materials 01·
+means as parts. T he order of teaching will be the same as that
+of deliberati0n; the reverse of that of operation. The following
+

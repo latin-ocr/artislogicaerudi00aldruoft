@@ -1,0 +1,45 @@
+RUDIMENTA. 75
+
+Syllogismi generales regulas complectitur hoc
+Tetrastichon ⁵.
+
+Distribuas medium3 nec quartus terminus adsit.
+· Utraque nec praemissa negans, nec particularis.
+
+Sectetur partem Conclusio deteriorem.
+
+Et non distribuat, nisi cum praemissa, negetve.
+
+ξ. 4. SUPEREST per hasce regulas inquirere, quot
+modis componi possunt tres Propositiones de inesse,
+ut Syllogismum conficiant. Qua in inquisitione
+duo spectanda sunt.
+
+1. Modus ‘, sive legitima determinatio Pro-
+
+· An earlier form of this mnemonic is given in some
+editions of Petrus Hispanus:
+
+Partibus ex puris sequitur nil, sive negatis.
+Si qua praeit partis, sequitur conclusio partis.
+Si qua negata praeit, conclusio sitque negata.
+Lex generalis erit, medium concludere nescit.
+
+‘ Mood (τρόπος) is not in this sense an Ar1stotelian expres-
+sion, (unless possibly in An. Pr. i. 28. 14 ?); but it is found
+in his Greek commentators. See Alexander, Schol. p. 150, b. 3.
+Aristotle in the same sense employs πτῶσις, An. Pr. i. 26. Ι.
+He does not adopt an arithmetical calculation of possible
+moods distinct from considerations of figure, but shews, in
+each figure separately, what combinations of propositions are
+admissible, and what not. It may be observed‚ that the
+earliest scholastie Logicians do not consider Mood as com-
+posed of three propositions, but of the two premises only.
+Thus Petrus Hispanus defines “ ordinatio dumam proposi-
+tionum in debita qualitate et quantitate;'' so Aquinas, in
+Opusc¹ xlviii. de Syll. ch. 4. In this case the number of
+possible moods is only sixteen.
+
+This computation is preferable to Aldrieh's‚ because sim-
+pler; but neither has any quical value. The leyitz'mate
+

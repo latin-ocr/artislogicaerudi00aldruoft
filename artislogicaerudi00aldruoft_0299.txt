@@ -1,0 +1,42 @@
+APPENDIX. ‘215
+
+predicates3 if they have the same predicate, we must
+compare their subjects.
+
+According to this method, it will be seen, thatin the
+first figure, the predicate of the sign is to that of its
+conclusion as part to whole, or as species to genus,
+Hence its logical validity: whatever subject is included
+under a species is necessarily included under its genus.
+But in the second figure the relation is that of whole to
+part, or of genus to species3 and this is illogical, the
+whole genus not being included under one of its species.
+
+But if we adopt the second interpretation, and compare
+the major premise with the conclusion, we shall be com-
+pelled in the first figure to compare together the two
+subjects, since both propositions have the same predicate.
+In this case the relation will be inverted3 the premise
+being to the conclusion as an universal rule to a single
+instance. In the second figure, we are at liberty to
+compare either the quantity of the two propositions as
+determined by their subjects, or the extent of their
+respective predicateS. In either case, however, the result
+is the sa1ne3 the relation remaining that of universal to
+particular.
+
+The Enthymeme in the third figure presents no diffi-
+culty. thichever interpretation be adopted, the same
+proposition, “ Pittacus is good,” is compared with the
+conclusion, “ All wise men are good.'’ In both cases,
+the comparison lies between the two subjects, and the
+relation is that of particular to universal.
+
+But perhaps the most difficult passage in this portion
+of the Rhetoric is that in which Aristotle describes an
+important, and previously, as he tells us, unnoticed
+distinction between various classes of Enthymelnes.
+Some of these, he says, belong to Rhetoric, some to
+other arts and faculties. The sanie may be said of the
+connexion of the Syllogism with Dialectic. Dialectical
+

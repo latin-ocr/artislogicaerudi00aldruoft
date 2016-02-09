@@ -1,0 +1,49 @@
+APPENDIX. 247
+
+“ Magnitudes equal to the adjacent exterior and interior
+angles of a triangle are equal to each other;
+
+The three interior angles and two right angles are equal to
+the adjacent exterior ancl interior angles ;
+
+Therefore, they are equal to each other.''
+
+The major premise of this Syllogism is an immediate
+deductiori from the first axiom 3 thus:
+
+“ Magnitudes which are equal to the same are equal to
+each other;
+
+Magnitudes equal to the adjacent exterior and interior
+angles are equal to the sa1ne;
+
+Therefore‚ they are equal to each othei-13²
+
+That the true syllogistic analysis of Geometrical Demon-
+strations will always be in this form, the axioms standing
+as major pmmises, and the constructions in each ease
+furnishing the proper minor, is evident. It only remains
+to see whether the text of Aristotle can be aceommodated
+to this interpretation as well as to the other.
+
+With some passages it evidently tallies much better.
+The places in which the axioms are mentioned in
+connexion with demonstration have never been satis-
+factorily explained on the scholastie interpretation ¹¹¹.
+There are others which prima facie appear to favour
+
+ἱ See Wolf, Philosophia Rationalis, ξ. 492. 551. 552. 798. Mill, Loyic,
+vol. i. p. 285. Sir W. Hamilton‚ Reid's Worlcs, p. 702.
+
+¹²¹ The difficulty is evaded rather than surmounted by distinguishing
+immediate propositions from axioms, and saying that the latter are employed
+in demonstrationi virtually but not actually. Aquinas, Opuso 48. de Syll.
+Dem. cap. 63 Cf. Zabarella„ in Ι. An. Post. Cont. 57, 58, Crakanthorpe,
+Log. lib, iv. cap. 1. For, in the first place, Aristotle expressly calls the
+axioms immediate principles of syllogism‚ and principles from which we
+demonstrate. In the second place, any principle which virtually enters and
+confirms the premises of a demonstration must, if the syllogistic theory be
+worth any thing, be capable of syllogistic connexion with the premises
+which it eonfirms: and until this connexion is formally exhibited, no
+[lemonstration can be logieally complete.
+

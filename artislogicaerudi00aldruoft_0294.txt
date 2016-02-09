@@ -1,0 +1,48 @@
+:210 APPENDIX.
+
+envy hate :'’ the latter is a sirzyular Proposstion, which
+however is not regarded as a sign, except relatively to
+some other Proposition, which it is supposed may be
+inferred from it. The εἰκός, when employed in an
+Enfflymeme, will form the major premise of a Syllogism
+
+such as the following:
+Most men who envy hate,
+This man envies,
+Therefore, This man (probably) hates.
+
+The reasoning is logically faulty3 for, the major premise
+not being absolutely universal, the middle term is not
+distributed.
+
+The σημεῖον will form one premise of a Syllogism which
+may be iu any of the three figures, as in the following
+
+examples :
+
+Fig. Ι. Fig. 2.
+All ambitious men are liberal; All pregnant women are pale,
+Pittacus is ambitious (Σ), This woman is pale, (Σ),
+Therefore, Pittacus is liberal. Therefore‚ She is pregnant.
+Fig. 3.
+
+Pittacus is good (Σ) ⁰,
+Pittacus is wisc,
+Therefore, All wiee men are good.
+
+c In the first and second figures, the σημεῖον is clearly the minor
+premise; this alone being singular. In the third, as far as quantity is
+concerned, we may choose between both premiscs. It seems more natural
+however to prefer the maj0r3 because, in assigning a reason sor our belief
+in a given proposition, we should naturally state a premise having either
+the same predicate or the same subject ,· not one in which the predicate of
+the premise is the subject of the conclusion. For example: Why do you
+believe Pittacus to be liberal? Because he is ambitious. Why do you
+believe wise nien to be good? Because Pittacus is good. This is far more
+natural than to answcr, “Because Pittacus is wise.’' The same con-
+sideration will surnish the data for interpreting an obscure passage iu
+Anal. Pr. ii. 26. 5. which however it would exeeed my present limits to
+attempt. The reader will find it rightly explained in a note to St. Hilaire's
+Translatiom vol. ii. p. ³341. with the exception that the syllogism may be
+inore clearly stated in Cesare than in Camestres.
+

@@ -1,0 +1,40 @@
+262 APPENfflx.
+
+cut one another are not both parallel to any third line‚’'
+from which, after I. 28. prove Simson’s axiorn xii as a
+theorem. Remark that the distinction of postulate
+and axiom‚ as problenp and tlzeorem, could not have been
+Euclid’s notion,for he does not recognise the last
+distinction; both are with him simply propositions.
+The expressed six postulates of Euclid are not the
+only ones which occur3 others are tacitly adopted, as
+will presently appear. Nothing should be tacitly assumed
+by those who will not assume without express statement,
+that ‘⁶ two straight lines cannot inclose a space.’'
+
+‘⁶ l. 1. The following postulates are demanded: “if
+two figures which have one or more points in common
+have each a point which is not in the other, the bound-
+aries of those figures must cut,” and “every point is
+without or within a circle, according as its distance
+from the centre is more or less than the radius.⁷’ With
+less, the intersection of the circles cannot be proved.
+Ι. 4. This postulate is assumed, “any figure may be
+removed from place to place without alteration of form,
+and a plane figure may be turned round on the plane.''
+But for this right to turn, Ι. 4. would not prove I. 5.’'
+
+ln the general principles of Professor De Morgan's
+criticism I fully concur, though slightly differing from
+one or two of his details. Definitions iii. and vi. are syn-
+thetica] judgments, not developing the conceptions of
+the point and straight line, but affirming a property of
+each. These then should be classed among the axioms,
+or, as Mr. De Morgan more properly terms them, the
+postulates, Definitions i, ii, iv, v, vii, viii, ix, are not
+really employed as conceptions, but only serve to refer us
+to the corresponding intuition; which in every case is
+the basis of onc or more axioms, implied, if not expressly
+stated. Among such axioms must bc classed the follow—
+ing assumption& “ Two lines can meet each other, and
+

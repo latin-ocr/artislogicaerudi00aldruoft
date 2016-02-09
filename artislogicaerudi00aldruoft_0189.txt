@@ -1,0 +1,41 @@
+RUDIMENTA. 105
+
+potest. 1. Si detur Conditio, danda est Assertio:
+unde Regula prima: Posita Antecedente, recte
+ponitur Consequens. 2. Si daretur Conditio,
+danda esset Asserti03 unde Regula secunda .· Sublata
+Consequente‚ recte tollitur Antecedens.
+
+Porro hoc unum statuit, Antecedente vera, veram
+esse Consequentem3 non autem ambas esse simul
+veras, aut simul falsas, aut una vera, falsam alteram:
+per illam igitur, sublata Antecedente, poni vel tolli
+potest Consequens3 aut posita Consequente, poni
+vel tolli Antecedens. Unde Regula tertia: Sublata
+Antecedente, vel Posita Consequente, nihil certo
+colligiturs.
+
+Conditionalis igitur Syllogismi duae sunt, nec
+plureS, formulae.
+
+Ι. Quae vocatur Constrzcctiva.
+Si C. D. tum K. Δ.
+Sed C. D. ergo K. Δ.
+
+theory of hypotheticals. The first method of reduction is
+only approximately true; and various ingenious examples
+have been framed by Logicians, to which it is inapplicable.
+See lii-ug, ξ. 82. Fries, ξ. 62. The truth is, that the so-called
+hypothetical proposition is really the statement of a conse-
+quence, which is sometimes formal, sometimes material; and
+in the latter case, the consequence is extralogicaL and cannot
+be reduced to any logical form, without additional assump-
+tions derived from the matter treated of. See below, Appendix,
+note I.
+
+f By ‘adopting the above modes of reduction it may easily
+be seen, that the violation of this third rule is equivalent‚ in
+the case of denying the antecedent, to an illicit process of
+the major ternu in that of affirming the consequent, to au
+undistributed middle.
+

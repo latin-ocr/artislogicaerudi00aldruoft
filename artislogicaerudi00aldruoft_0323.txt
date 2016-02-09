@@ -1,0 +1,45 @@
+APPENDIx. 239
+
+minds possessed of certain additional knowledge, be an
+indication of the other3 but the true ground of the
+inference is contained in this additional knowledge, and
+not in the mere hypothetica] coupling of the facts by
+a conjunction. This is not hypothetical reasoning,
+i. e. it is not reasoning from the hypothesis, but from
+other circumstances not mentioned in the hypothesis
+at alln.
+
+It thus appearS, that the only hypothetical judgment
+which can be employed as the real major preinise of
+a syllogism, may be expressed in the form, ‘⁶ If any A
+is Β, it is O‚'’ where A, B, and C represent concepts or
+general notions. The complete categorical equivalent
+to this is, ‘⁴ Every A which is B is C, because it is B‚”
+which admits of two intelpretations, according as B
+stands for the physical cause of the fact, or for the
+logical reason of our knowing it. In the latter case,
+the judgment is analytical, and represents a disguised
+formal consequence with B as a middle term: e. g.
+
+¹¹ This may be made clearer by an example. The following is cited by
+Fries, as an instance of a hypothetica] proposition, not reducible to cate—
+gorical form. ‘⁶ If Caius is free from business, he is writing poetry.” This
+may be interpreted to mean either, generally, “ whenever Caius is dis-
+engaged, he writes poetry ;'’ or, specially, “ if he is now disengaged, he is
+now writing poetry.'’ Under the former interpretation, it is a general
+hypothesis, which may be applied as amajor premise to particular instances:
+but in this case the true form of the reasoning is, “ All times when Caius
+is disengaged, are times when he writes poetry3 and the present is such
+a time.'’ Under the latter interpretation, it is one of the cases of a
+material connection of two facts mentioned in the text. Now in this
+last case, it is obvious that the inference is really made, not from the
+hypothesis, but from some circumstance known to the reasoner, but not
+appearing in the proposition, Any man being asked, “ Why do you infer
+that Caius, being now disengaged, is writing poetry ?’' would reply,
+“Because he told nie he should do so ;’' or something of the kind.
+Assuredly he would never dreani of replying, ‘⁴ Because {f he is now
+disengaged he is wm'tingf’ In this case then he does not reason from
+
+the hypothesis, and the expressed propositions do not compose a syl-
+logism. ·
+

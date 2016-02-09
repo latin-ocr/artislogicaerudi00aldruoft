@@ -1,0 +1,47 @@
+‘240 APPENDIX.
+
+“ Every man who is learned has studied, because he
+is learned.'’ Here the notion of study is implied in
+that of learning, and the major premise is, “ All learned
+beings have studied.” The hypothetica] proposition
+thus becomes a complete syllogism, to which the sub-
+sequent consequence is related as an episyllogism ⁰. In
+the former case, where B stands for a physical cause,
+,the judgment is synthetical, and indicates a material
+consequence, which it requires some additional know-
+ledge of facts to reduce to formal: e. g. “All wax
+exposed to the fire melts, because it is exposed.” Here,
+on materia] grounds, we know that we cannot supply the
+premise, “ All bodies exposed to the fire melt;’⁷ but
+only, “All bodies soluble by beat and exposed to the
+fire melt,” In this case the consequence is extralogical,
+and requires additional data not given in the thought.
+But here also, when the judgment in question is em-
+ployed as the premise of a reasoning, the conclusion
+follows categorica11y3 though the premise itself cannot,
+as it stands, be proved by a prosyllogism Ρ.
+
+The Disjunctive Judgment is usually described as
+representing a whole divided into two or more parts
+mutually exclusive of each other, and the Disjunctive
+
+0 Thus:
+Hypollzelical Sylloyism. ΟαΙιῃονίε-ιιί Analysis.
+Is any man is learned, he has All learned beings have studied:
+studiod: All learned men arc learned
+Some men arc lcarned; being&
+Some men have studjed. All learned men have studied:
+
+Some men arc learned men:
+Some men have studied.
+
+ν The unalysis in this ease may be exhibited thus-2
+
+[lypolhsetfical Sylloyism. Ι Galegstn‘ical Equivaleul.
+ls any wax is exposed to thr· lire All wax exposed to the firc melts
+it, unalis: (because exposed) 2
+This wax is exposed lo tho fir‹·; This wax is exposed to the fire;
+'slus wax melis. , This wnx lnelts.
+
+'l'lw parenthesis indicates the material ground os tiu· maior premise.
+

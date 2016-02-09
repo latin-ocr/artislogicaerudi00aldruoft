@@ -1,0 +1,40 @@
+APPENDIX. 263
+
+the place where they meet is always a single point.⁷'
+“Two lines ean intersect each other, and the place
+where they intersect is always a single point.”
+(These are properties of the point, and assumptions of
+the possibility of angles.) “ A straight line may lie in
+and form part of a superficies.'’ Definitions xiii, xiv,
+xvi, are the only purely verba] ones3 for Definitions x,
+xi, xii, and xvii, assume that straight lines ean be drawn
+to eomply with certain speoified conditions3 and the
+others, being definitions of figures, assume that lines
+under specified conditions can enclose a space.
+
+The above remarks will sufficiently shew in what
+respeots the attempts of Geometers to dispense with
+axioms have failed. They have not been aware that
+every synthetioal judgment assumed without demon-
+stration is a axiom. They have attempted to deal, not
+very sueoessfully, with the expressed axioms of Euolid3
+but they have neglected‚ and in their own attempts have
+assumed, principles equally axiomatie, though only
+understood; and they have not been aware that an
+assumption resting on an appeal to the senses or to
+the imagination is as much an unproved assumption as
+one which appeals to the thought3 for of the one we
+ean only say that we are so constituted that we cannot
+but perceive it, and of the other, that we are so oon-
+stituted that we cannot but think it.
+
+An ingenious and instructive but unsueoessful attempt
+of this kind is made in General Thompson’s “ Geometry
+without Axioms.” The author every where identifies
+intelligible magnitudes with sensible3 and this identifi-
+cation gives rise to a multitude of subordinate assump-
+tions‚ inadmissible in striot demonstration, but which, if
+admissible‚ would be as much axioms as any thing in
+Euclid. By identifying intelligible magnitudes with
+sensible, it is implied that all the perfeetions which are
+

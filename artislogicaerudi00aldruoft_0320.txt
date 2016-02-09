@@ -1,0 +1,41 @@
+‘2:36 APPENDIX.
+
+the peculial· character of certain matters about which we
+may think, and not a law of the form of thought in general.
+
+It is obvious that the relation of premises and con-
+clusion in a syllogism may, like any other relation of
+condition and conditioned, be expressed in the form of
+a hypothetica] proposition: “If all A is Β, and all C is
+A, then all O is B:'' and the actual assertion of the
+truth of these premises will furnish at once a so-called
+hypothetica] syllogism: “ But 311 A is B, and all O is A,
+therefore all C is B.'’ This was observed by Fries, who
+hence rightly maintains that analytical hypothetica]
+judgments are formal syllogisms¹‘⁴⁷ It is strange that,
+after this, he should not have gone a step further, and
+discovered that synthetical hypothetica] judgments are
+assertions of material consequence& The judgment,
+“If A is B, O is D,'’ asserts the existence of a conse-
+quence necessitated by laws other than those of thought,
+and consequently out of the province of Logic. The
+addition of a minor premise and conclusion in the so-
+called hypothetica] syllogism, is merely the assertion
+that this general material consequence is verified in 3
+particular case.
+
+The distinction so much insisted on by the KantianS,
+of the problematical character of the two nlembers of a
+hypothetica] judgment, is, like the whole Kantian doc-
+trine of modality, of no consequence in formal Logic.
+All formal thinking is, as regards the material character
+of its objects, problematical only. Forma] Conception
+pronounces that certain objects of thought may possibly
+exist, leaving their actual existence to be determined by
+experience. Forma] Judgment decides on the possible
+coexistence of certain concepts3 and Forma] Reasoning,
+on the truth of a conclusion, subject to the hypothesis os
+the truth of its premises.
+
+¹< Symeon ‹lv›- Lassus, §.1st
+

@@ -1,0 +1,42 @@
+:23⁶2 APPENDIX.
+
+be required to prove that some A is not Β, we reason
+from the assumption of the contradictory,
+All A is B;
+All C iS A; (συλλογισμὸς ἐξ ὑποθέσεως.)
+Theref0re, All G is B.
+
+The Conclusion being supposed to be a known false-
+hood.
+
+This mode of reasoning, as exhibited by Aristotle,
+does not directly appear in the same form as the former.
+For in this the hypothesis is a premise,· the conclusion
+being the impossibility which has not been previously
+enunciated. In the former, the premises are both new
+assumptions3 the conclusion being the antecedent of
+the conditional proposition which was agreed upon as
+a hypothesis. Both, however, agree thus far, that the
+syllogistic portion of each does not differ in form from
+an ordinary Syllogism 3 and that in neither is the original
+question syllogistically proved.
+
+The notices of these Syllogisms in Aristotle are, it
+must be confessed, sufficiently scanty. Thus much,
+however, may fairly be gathered. Fir‘stly, that, as
+regards form, they are merely the common Categorical
+Syllogisms applied to a particular purpose. Secondly,
+that their conclusiveness, as regards the original
+question, is by way of material, not of formal conse-
+quence. The syllogism by agreement obviously refers
+to dialectic disputatiou, and furnishes the grounds for
+a mere armamentum ad hominem, in consequence of a
+previous admission. Apart from this special appli-
+cation, which does not appear in the syllogism, the
+proof ainounts to this:
+
+No X is C;
+All X is A ;
+Thorefore, Some A is not C.
+Thvreffirc, (by material consequence) Some A is not B.
+

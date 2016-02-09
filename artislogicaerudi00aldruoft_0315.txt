@@ -1,0 +1,49 @@
+APPENDIX. ‘2:31
+
+And then, in consequence of the previous ayreement, but
+not of the Sylloyism, it is allowed that some A is not B.
+The Syllogism in form is an ordinary Qategorical in the
+third figure3 the Conclusion, however, not being· the
+original question, but the antecedent of a Hypothetical
+Proposition, of which the question is the consequente.
+The ἀπαγωγὴ εἷς τὸ ἀδύνατον is also Categorical‚ so far as
+it is Syllogistic. In this, the Conclusion syllogistically
+proved is a falsehood; the original question being
+inferred only by Hypothesis‚ because a falsehood results
+from the assumption of its contradictory ⁰. The Hypotlzesis
+in this case is, that the contradictory is truce. Thus, if it
+
+⁰ Ἐν ἅπασι ’γὰρ ὁ μὲν συλλογισμὸς ’γίνεται πρὸς τὸ μεταλαμβανόμενον, τὸ δ’
+ἐξ ἀρχῆς περαίνεται δι’ ὁμολογίας ἥ τινος ἄλλης ὑποθέσεως. Anal. P1·.i.23.11.
+Τὸ μεταλαμβανόμενον is explained by Alexander as applying to the conclusion
+of the syllogism, because it is taken in a different manner from that in
+which it was originally enunciated3 being at first part of a conditional
+agreement, and afterwards a categorical conclusion. For this reason, the
+syllogism is said to be κατὰ μετάληψιν. Anal. Pr. i.29. 5. ΧΥΘΓΘ it not for
+this authority, it would seem simpler to interpret μετάληψις merely “ change
+of question ;‘' the disputant tiu—ming from the original question to the proof
+of another on which it is supposed to depend. The other ldnd of hypo-
+thetical syllogisms mentioned in the same passage, those κατὰ ποιότητα,
+seem to have been a kind of argument afortiori, or ab oequali, the relation
+being assumed in the hypothetical premise. Thus Philoponus, in Anal.
+Pr. f. ¹74, b. explains: Κατὰ ποιότητα δὲ ἐκεῖνοι λέγονται ὅσοι ἐκ τοῦ μᾶλλον
+ἐπιχειροῦσιν ἢ ἐκ τοῦ ἧττον ἢ ἐκ τοῦ ὁμοίου . . .. οἷον ἐκ τοῦ μᾶλλον· εἷ
+ὑγίεια μᾶλλον ἀγαθὸν ἢ ὁ πλοῦτος, οὐκ ἀγαθὸν δὲ πάντως ἡ ὑγίεια, οὐδὲ ὁ
+πλοῦτος ἄρα. ἐκ δὲ τοῦ ἧττον· εἶ ἡ ὑγίεια ἧττον ἀγαθὸν δοκοῦσα εἶναι τῆς
+ἀρετῆς ὅμως ἀγαθόν ἐστι, καὶ ἡ ἀρετὴ ἄρα ἀγαθόν. ἐκ δὲ τοῦ ὁμοίου κατα-
+σκευάζομεν οὕτως. εἷ ὁμοίως ἦ ἰσχὺς καὶ τὸ κάλλος σώματος εἰσὶν ἀρεταὶ,
+ἀγαθὸν δὲ ἡ ἰσχὺς, καὶ τὸ κάλλος ἄρα. Α similar explanation is given by
+Alexander, f. 133, a. b. Cf. Prantl, vol. i. p. 390.
+
+‘³ Anal. Pr. i. 23. 8. Πάντες ’γὰρ οἷ διὰ τοῦ ἀδυνάτου περαίνοντες τὸ μὲν
+ψεῦδος συλλογίζονται, τὸ δ’ ἐξ ἀρχῆς ἐξ ὑποθέσεως δεικνύουσιν ὅταν ἀδύνατόν
+τι συμβαίνῃ τῆς ἀντιφάσεως τεθείσης. Ι have substituted a mere symbolical
+syllogism for the instance given by Aristotle, on account of its intricacy,
+and the length requisite to expand it. The reader will find it explained
+by Waitz, vol. i. p. 430.
+
+θ Anal. Pr. i. 29. 3. Πάλιν εἷ δεικτικῶς συλλελόγισται τὸ Α τῷ Ε μηδενὶ
+ὑπάρχειν, ὑποθεμένοις ὑπάρχειν ’τινὶ διὰ τοῦ ἀδυνάτου δειχθήσεται οὐδενὶ
+
+ὑπάρχον.
+

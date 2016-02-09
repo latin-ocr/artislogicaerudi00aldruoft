@@ -1,0 +1,47 @@
+APPENDIX. 211
+
+The Syllogism in the first figure is alone logically valid.
+In the second, there is an undistributed middle term: in
+the third, an illicit process of the minor.
+
+The σημεῖον is defined by Aristotle, πρότασις ἀποδεεκτικὴ
+ἀναγκαία ’ὴ ’ἔνδοξος ; in which the words necessary and
+probable do not relate to the modal character of the
+Proposition in itself, but to the nature of its connexion
+with the Conclusion which it is adduced to prove, i. e. to
+its loyical validity when the other premise is added⁶;
+without which addition, eoepressed or understood, there is
+no Enthymeme at alle.
+
+But it may be thought that the above examples do not
+furnish a sufficient criterion for distinguishing between
+the two kinds of Enthymeme. If both premises must be
+mentally, and may be orally, supplied, before there is
+any Enthymeme at all, how are we to determine whether
+any given specimen is an instance of reasoning from a
+sign, or from a likelihood? Why, for example, in the
+
+‘¹ Rhet. i. 2. 17. Ἀναγκαΐα μὲν οὖν λέγω ἐξ ὧν γίνεται συλλογισμός. Cf.
+Anal. Pr. i. 1. 6, Συλλογισμὸς δέ ἐστι λόγος ἐν ᾧ τεθέντων τινῶν ἕτερόν τι
+τῶν κειμένων ἐξ ἀνάγκης συμβαίνει. Here sylloyism is used in its strietest
+sense. From another passage in the Rhetoric (i. 2. 14.) it has sometimes
+been imagined that all σημεῖα are necessary, at least as propositions; and
+the σημεῖον has even been defined, “ a proposition in necessary matter;’'
+as if ‘⁶ necessary matter” were the proper province of Rhetoric. The inter-
+pretation however is too inconsistent with Aristotle’s Subsequent language
+to be tenable. The words in question, if properly belonging to this place,
+(the resemblance to Rhet. i. 2. 8. is suspicious‚) must be so interpretes] as
+to identify the necessary propositions with one class only of σημεῖα, the
+τεκμήρια. The reference to the Analytics Ι conceive to allude, not to the
+account of modal conclusions cleduced from moda] premises, but to the
+necessary conclusiveness of premises logically connected, as opposed to the
+more or less probable conclusiveness of illogical combin ations. As a special
+reference, supply Anal. Pr. i. 27. 12.
+
+Ε Anal. Pr. ii. 27. 4. Ἐὰν μὲν οῧν ἡ μία λεχθῇ πρότασις, σημεῖον ’γίνεται
+μόνον, ἐὰν δὲ καὶ ἡ ἑτέρα προσληφθῇ, συλλογισμός. The context shews that
+he is speaking of Syllogism only in the looser sense in which all Enthy=
+
+memes are included.
+P 2
+

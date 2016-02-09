@@ -1,0 +1,43 @@
+96 AR'rls LocioAE
+
+ubi quod ponitur de singulari noto, assumitur de
+simili ignoto: ut, Sylla et Marius laceravere rem-
+publicam ; ergo C'oesar et Pompeius lacerabunt.
+Hujus etiam minor reticetur; quapropter (ut in
+caeteris) quaestionem assumi dico; neque enim
+colligitur nisi ex posito et- subintellecto.
+
+4. S07·ites¹; in cujus Antecedente, ex ordinata
+
+to this view, will be, ‘¹ Caesar and Pompey are Sylla and
+Marius.'' But the example proper is not a logical reasoning
+at all3 being a compound of an imperfect, and therefore
+illogical, Induction and a Syllogisni. See further, Appendix,
+note H.
+
+¹ The Sorites is a series of propositione, in which the pre-
+dicate of each is the subject of the next3 the conclusion being
+formed of the first subject and the last predicate. It may be
+expanded into a series of syllogisms in the first figure, the
+conclusion of each being the minor premise of the next.
+There will be as many syllogisms as there are intermediate
+propositione between the first premise and the conclusion;
+the first being the only minor premise stated. Hence there
+ean only be one particular premise in a Sorites, the first ; the
+others being major premises in the first figure. And the last
+is the only premise which may be negative: for any previous
+negative premise would produce a negative conclusion, which
+could not be used as a minor premise in the next syllogism.
+
+The Sorites is not recognised as a distinct kind of reason-
+ing by Aristotle. Nor is there any reason why it should have
+been; as it is merely a combination of ordinary syllogisms,
+succinctly expressed. Its distinct exposition is attributed to the
+Stoics. But the principle, as Melanchthon observes, is implied
+in Categ. 3. l. and the Sorites itself is alluded to in Anal. Pr.
+
+i. 25. 2, ll. There is another form of the Sorites‚ called the
+v reyressive or Goelenian, first given by Goelenius in his Isayoye
+in Oryasmmz Aristotelis, 1598, p. 255. In this, the subject of each
+proposition is the predicate of the next; the conclusion being
+

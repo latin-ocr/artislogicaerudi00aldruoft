@@ -1,0 +1,39 @@
+:2⁶26 APPENfflx.
+
+NoTE H.
+
+ΟΝ EXAMPLE AND ANALOGY.
+
+EXAMPLE is defined by Aristotle, ‘⁶ proving the major
+term of the middle by a term resembling the min01·⁸⁸.''
+This definition is obscure, from being worded so as to
+contrast with his definition of Induction, in which the
+major term is proved of the middle by the minor. It
+does not apply to the singular conclusion ultimately
+established, but to the universal proposition which forms
+the conclusion of the inductive portion of the Example.
+Thus, if we expand Aristotle⁷s instance into its complete
+form, eomposed of an imperfect induction and a syllo-
+gism, it will run thus:
+
+The war of the Thebans and Phoeians (D) was an
+evil (A),
+The war of the Thebans and Phocians was a war between
+neighbours (B),
+All wars between neighbours are evil.
+A war between the Athenians and Thebans (C) is a war
+between neighbours.
+It is an evil.
+
+In this reasoning there are four terms, A the major, B the
+middle, G the minor, D the ὁμοῖον. The definition applies
+to the third proposition, in which A is proved of B by
+means of D. If the final conclusion were taken into
+account, the Example might be more correetly defined
+as a reasoning in which the major term is proved of the
+minor by means of a middle, of which middle the major
+has been proved by a term resembling the minor.
+
+³¹ Παράδειγμα δ’ ἐστὶν ὅταν τῷ μέσῳ τὸ ἄκρον ὑπάρχον δειχθῇ διὰ τοῦ ὁμοίου
+τῷ τρίτῳ. Amal. l‘r. ii. 21. Ι.
+

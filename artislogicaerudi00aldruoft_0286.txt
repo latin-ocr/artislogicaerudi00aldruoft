@@ -1,0 +1,47 @@
+209. APPENDIX.
+
+among the five modes of this fallacy enumerated by
+Aristotle, one is in form not distinguishable from the
+legitimate Syllogism ⁴¹. Selecting this variety, as that by
+which most of all the objection is to be sustained‚ we
+will proceed to examine its peculiarities.
+
+In the first place, it is manifestly necessary to a
+Petitz'o Quaesitiz as the fallacy may more eorrectly be
+called, that there should be a question proposed for
+proof. And hence it was long ago acutely remarked by
+Petrus Hispanus, that such a fallacy cannot be com-
+mitted in a Syllogism of irzferencef. If, that is, the
+truth of the premises is known beforehand, and the only
+question is, what may we infer from them? there is no
+necessity for beyyiny or assumption of any kind. It is
+clear then, that not the Syllogism in general, but at
+most only one particular application of it, can beg the
+question.
+
+But it may be answered, that the truth of such premises
+never can be ascertained‚ but by a previous induction
+embracing all particular cases, and that Syllogistic in-
+ference is therefore at least futile, since the conclusion
+drawn must be presumed to be already known. But
+this answer itself assumes what has never yet been
+satisfactorily proved, the dependence of all knowledge
+of Universals on Induction. If axiomatic principles can
+be acquired in any other way, one class of Syllogisms is
+at least exempt from the charge g.
+
+‘¹ Top. viii. 13. 2. Δεύτερον δὲ ὅταν κατὰ μέρος δέον ἀποδεῖξαι καθόλου τις
+αἰτήσῃ, οἷον ἐπιχειρῶν ὅτι τῶν ἐναντίων μία ἐπιστήμη, ὅλως τῶν ἀντικειμένων
+ἀξιώσειε μίαν εἶναι.
+
+‘³ Pacius in Anal. Prior. ii. 16.
+
+ἲ “ Sciendum quod haec fallacia non impedit syllogismum inferentem,
+sed probantem, et fita fallacia petitionis peccat contra sylloyismum dialecticum
+in quamam dialecticus est? Summ. Log. Tract. vi.
+
+u Kant‘s criterion of necessity as the sure characteristic of a cognition
+
+n priori, has not yet been refuted by those who refer all principles to
+induerim.
+

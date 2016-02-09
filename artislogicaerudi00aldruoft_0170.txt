@@ -1,0 +1,53 @@
+86 Aims LOGICAE
+
+“ Universaliter de alio2 (i. e. de termino distributo,)
+
+“ sive affirmative, sive negative, praedicatur similiter
+“ de omnibus sub eo contentis.''
+
+Neues Ονῃαηοη, part i. ch. 4. ξ. 232. but he is sar from happy
+in his enunciation of the dicta. We may state them as follows,
+in a somewhat improved form.
+
+Principle of second figure. Dictum de Diversa
+
+If a certain attribute can be predicated (affirmatively or
+negatively) of every member of a class, any subject, of which
+it cannot be so predicated, does not belong to the class.
+
+Principles of third figure. Ι. Dictum de Eoeemplo.
+
+If a certain attribute can be affirmed of any portion of the
+members of a class, it is not incompatible with the distinctive
+attributes of that class.
+
+I Ι. Dictum de Excepto. If a certain attribute can be denied
+of any portion os the members of a class, it is not inseparable
+from the distinctive attributes of that class.
+
+The natural use of the second figure, according to Lambert,
+is for the discovery and proof of the differences of things: that
+of the third, for the discovery and proof of examples and
+exceptions.
+
+Concerning Lambert's imaginary principle of the fourth
+figure, see p. 93, note n. Lambert's principles are criticised
+by ng, Loqui, ξ. 109. According to Sir W. Hamsston,
+(Diseussiffi 2d Ed. p. 666.) “it was Melanchthon who first
+excogitated, as he thought, the various principles on which
+proceed the various syllogistic figures.'' The following may
+be gathered from his Erotemata Dialectiees.
+
+Principle of first figure. Posito genere. necesse est speciem
+poni.
+
+Principle of second figure. Remoto genere, removetur species.
+
+Principle os third figure. Posita specie, necesse est genus
+poni, sed particulariter.
+
+There is a third manner of treating the syllogistic figures;
+viz. by regarding them as all equally direct applications of
+one and the sanic principle. This has been attempted by
+Alth-'1011 and others in tho Canons; (see p. (58.) but inaccuratoly.
+

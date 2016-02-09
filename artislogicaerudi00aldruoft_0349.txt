@@ -1,0 +1,40 @@
+APPENDIX. ⁴265
+
+are made to depend on a supposed inflatior] of the
+sphere. Here is another implied postulate or axiom.
+“ A hard body may be increased or diminished in size
+to any extent without losing its hardness.'' Empirically,
+this is untrue. A body which resists all change of form
+cannot in practice be expanded or contracted ad libitam.
+To assume it as imaginably true is to assume an axiom‚
+not a definition.
+
+Again: the author attempts to prove the majority of
+the axioms of Euclid by superposition3 laying down
+beforehand these two definitions3 “ Things which occupy
+the same place, are said to coincide ;'’ and ‘⁶ Magnitudes
+which, if their boundaries were applied to one another,
+would coincide, or might be made capable of doing so
+by a different arrangement of parm, are called equaZ.”
+In the latter definition again there is an assumed postu-
+late : ‘⁴ The parts of a body may be arranged in any way,
+without affecting the magnitude of the body.'’ Otherwise
+the two meanings of the term equal are a mere equi-
+vocati0n3 and the demonstration of the equality of any
+two given bodies is a mere play upon words. A is equal
+to B because it actually coincides with it. G is equa] to
+B because it may be made to coincide with it. But how
+do Ι know that it is the same C before and after the,
+change in the arrangement of its parts? If I may assert
+that the two bodies are now equal, because a different
+arrangement of parts may make them so, why may I not
+assert that they are now equal, because by taking away a
+part of one of them they may become so?
+
+But even after this assumption is made, it may be
+questioned whether the principle of superposition can
+be legitimately applied to magnitudes considered as
+exhibited on a hard body. Magnitudes in space can be
+constructed apriori in a pure intuition, and in any one
+part of space, as readily as in anv other. Hence they
+

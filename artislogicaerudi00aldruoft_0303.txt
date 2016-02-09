@@ -1,0 +1,42 @@
+APPENDIX. 219
+
+NOTE G.
+
+ΟΝ IN DUCTION.
+
+INDUCTION, as far as it is a Logical process at all, is
+equally formal with Syllogism; though proceeding in
+the inverse order, viz. from the aggregate of individuals
+to the universal whole constituted by them3 instead of
+from the whole to the several individuals contained
+under it. It is defined by Aristotle, ‘⁴ proving the major
+terni of the middle by means of the minoi-³3⁷³ in which
+definition, the expressions major, middle, and minor, are
+used relatively to their extension, to designate respectively
+the attribute proved, the constituted„ species of which it
+is proved, and the aggregate of individuals by which the
+species is constituted. The form in which the Inductive
+Reasoningb naturally appears, exhibits an apparent,
+though not a real, resemblance to the third figure of
+Syllogisni. Thus:
+
+X, Y, Z, (minen) are B (major);
+X, Y, Z, are all A (middle) ; therefore,
+All A is B.
+
+The resemblance to the third figure is apparent only3
+the true distinctions being, 1. That in the minor premise
+of the Induction, the copula does not represent the
+subject as contained under, but as coozstitutz'ny, the
+
+predicate. ‘2s'That in consequence of this distinction,
+
+³ Τὸ διὰ τοῦ ἑτέρου θάτερον ἄκρον τῷ μέσῳ συλλογίσασθαι. Anal. Pr. ii.
+23. 2.
+
+¹· In a loose sense, Aristotle calls it ὁ ἐξ ἐπαγωγῆς συλλογισμός,
+where the word does not denote the syllogism proper, οι· reasoning froin
+the universal whole to the contained parts, but is extended to formal
+reasoning in general. In like manner, in Rhet. ii. 25. 8. he speaks· of the
+Enthymeme as including Example.
+

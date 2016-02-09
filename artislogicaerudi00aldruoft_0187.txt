@@ -1,0 +1,41 @@
+RUDIMENTA. 103
+
+Propositio Hypothetica late sumta definitur, Plures
+Categoricae per conjunctionem aliquam unitae, et
+conjunctio vocatur Copula ; estque Conditionalis,
+'Diejunctivm Causalis⁰ &c. ut apud Grammaticos3
+unde totidem Hypotheticarum specieS, suis copulis
+cognomines. Sed ad Syllogismum non faciunt,
+Praeter conditionalem, et Disjunctivamffi quarum
+exempla, Si sapit est beatus. Vel dies est vel ηοω.
+
+Conditionalis habit vim illativam. Unde Con—
+ditio ipsa, sive pars prior, quae est instar inferentis,
+Antececlens dici solet; Assertio, sive pars posterior,
+quae rationem habet illatae, Consequens ,· partiumque
+inter se connexio, Consequentiae.
+
+ὃ Gaas-alis, e. g. “Because A is B, C is D.‘’ This is, of
+course, only a hypothetical in the loose sense of the above
+definition. In the same sense were admitted tempor-al hypo-
+theticals, “W'hen A is B, G is D;‘⁷ locale, ‘⁴ Where A is B,
+G is D‚‘' &o &a The causal hypothetical proposition is really
+a curtailed hypothetical syllogism. “Because A is B, G is D,’'
+is equivalent to “ If A is Β, G is D, and A is B.’' Cf. Hoff-
+bauer, Loyik, ᾗ. 236.
+
+‘¹ Nothing can be more clumsy than the employment of the
+word conditional in a specific sense, while its Greek equivalent,
+hypothetical, is used generically. In Boethius, both terms are
+properly used as synonymous and generic3 the two species
+being called conjunctivi, conjuncti, 01· connexi, and disjunctim,
+or disjuncti. See Boethii Opera, p. 610, Hamilton's Discussions,
+p. 150. The nomenclature of Boethius is followed by Ramus.
+With reference to modern usage, however, it will be better
+to contract the Greek word than to extend the Latin one.
+Hypothetical‚ in the following notes, will be used as synony-
+mous with conditional.
+
+θ It has been questioned whether Hypothetical Syllogisms
+can be reduced to Gategorical. This question must not be
+

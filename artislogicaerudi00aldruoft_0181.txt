@@ -1,0 +1,44 @@
+RUDIMENTA. 97
+
+serie terminorum, praecedens quisque subjicitur
+sequenti, donec a subjecto quaestionis pervenitur
+ad praedica-tum, v. g. Homo est animal : animal est
+vivens: vivens est substantia; ergo Homo est sub-
+stantia. In Sorite igitur subaudiuntur syllogismi
+quot sunt intermediae propositiones; (vel si mavis,
+quot in antecedente termini intermedii 3) unde et a
+cumulo nomen habet.
+
+5. Soriti affinis est Syllogismus, cujus praemis-
+sarum altera est sententia Enthymematica23 ut,
+Nullus injustus est amandus: Omnis Tyrannus
+(crudelis cum sit) est injustum ergo Nullus Ty-
+rannus est amandus. Qui quidem Syllogismus
+peculiare nomen non habet& Praemissae autem
+
+formed of the last subject and the first predicate. E. g. All
+D is E, all C is D, all B is C, all A is B; therefore all A is E.
+In this, when expanded, the conclusion of each syllogism is
+the major premise of the next. In this Sorites, only the first
+premise can be negative and the last particular. This, as
+Krug has remarked, should really be called the progressive ,-
+the ordinary Sorites the reqressive. A much more complicated
+theory of Sorites is given by Herbart‚ Lehrbueh zur Philosophia,
+ξ. 70. and by Drobisch, Loqilc, ξ. 81.; but it is of little logical
+value.
+
+The Sorites must not be confounded with the well-known
+fallacy of the samename, attributed to Eubulides of Miletus,
+and mentioned by Cicero, De Divinatione, ii. ll. For the
+history of the Sorites‚ name and thing, see Sir W. Hamilton’s
+Lectures οη Loyic, vol. i. p. 375.
+
+⁸ On the Enthymeinatic sentence, see Arist. Rhet. ii. 21. 6.
+
+t It is sometimes called an epicheirema. The word originally
+was synonymous with Dialectic Syllogism. See Top. viii. 11,
+12. Of this epioheirema or aryumentatw, the Rhetoricians
+enumerated various kinds, tripartita, quadripartita, quinque-
+
+H
+
